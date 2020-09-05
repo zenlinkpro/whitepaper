@@ -1,6 +1,6 @@
 # Zenlink Whitepaper
 
-Zenlink is a cross-chain DEX protocol based on Polkadot. It is committed to sharing the DEX order book between the various parachains of the Polkadot network, and building a simple, extreme, open and interconnected universal pluggable DEX Module that everyone can use.
+Zenlink is committed to building a new generation of cross-chain DEX network. By integrating the Zenlink DEX Module, Zenlink can enable parachains to quickly possess DEX capabilities and share liquidity with other parachains; Zenlink DEX aggregator can link all DEX DApps on Polkadot. Users can not only complete the exchange easily and quickly, but also enjoy a low slippage transaction experience; Zenlink's native token ZLK provides a fair and transparent governance mechanism and reasonable value capture methods to incentivize ecological users to participate in long-term network development.
 
 Please download: [Zenlink Whitepaper](./en/zenlink_whitepaper_en.pdf)
 
