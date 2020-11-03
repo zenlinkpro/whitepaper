@@ -9,3 +9,4 @@ Please download: [Zenlink Whitepaper](./en/zenlink_whitepaper_en.pdf)
 * 2020.08.30，v0.2 updated.
 * 2020.09.13，v0.3 updated.
 * 2020.09.21，v0.4 updated.
+* 2020.11.03，v0.5 updated.
